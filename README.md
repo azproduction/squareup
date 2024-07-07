@@ -3,6 +3,8 @@
 When you want to publish a non-square picture on Instagram without photoshopping too much.
 A script to convert a non-square picture to a square one filling the gaps with a blur.
 
+[Example](https://www.instagram.com/p/CyBs3MWoRrL/?img_index=2)
+
 ## Requirements
 
 - node 20.x
